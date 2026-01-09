@@ -7,6 +7,7 @@ function App() {
         <h2>AWC</h2>
         <ul>
           <li><a href="https://tokkumu.com/AWC2025/">AWC 2025</a></li>
+          <li><a href="https://tokkumu.com/AWC2026/">AWC 2026</a></li>
         </ul>
         <h2>AWCC</h2>
         <ul>
